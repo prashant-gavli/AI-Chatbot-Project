@@ -33,7 +33,14 @@ This chatbot can interact with users, answer questions, and be extended with API
   - NLTK / spaCy (for NLP)  
   - scikit-learn / TensorFlow / PyTorch (optional ML model)  
   - Flask / Streamlit (for Web UI)   
-
 ---
 
+##  Getting Started
+ @ use uour own .env & groq API keys
+
+### Prerequisites
+
+- Python 3.x
+- Node.js (if applicable)
+- Docker (optional)
 
